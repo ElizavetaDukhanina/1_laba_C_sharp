@@ -1,0 +1,7 @@
+D:\Лиз0к\прога\C#\1 лаба\6 задание\bin\Debug\6 задание.exe.config
+D:\Лиз0к\прога\C#\1 лаба\6 задание\bin\Debug\6 задание.exe
+D:\Лиз0к\прога\C#\1 лаба\6 задание\bin\Debug\6 задание.pdb
+D:\Лиз0к\прога\C#\1 лаба\6 задание\obj\Debug\6 задание.csproj.AssemblyReference.cache
+D:\Лиз0к\прога\C#\1 лаба\6 задание\obj\Debug\6 задание.csproj.CoreCompileInputs.cache
+D:\Лиз0к\прога\C#\1 лаба\6 задание\obj\Debug\6 задание.exe
+D:\Лиз0к\прога\C#\1 лаба\6 задание\obj\Debug\6 задание.pdb

@@ -1,0 +1,7 @@
+D:\Лиз0к\прога\C#\1 лаба\задание 3\bin\Debug\задание 3.exe.config
+D:\Лиз0к\прога\C#\1 лаба\задание 3\bin\Debug\задание 3.exe
+D:\Лиз0к\прога\C#\1 лаба\задание 3\bin\Debug\задание 3.pdb
+D:\Лиз0к\прога\C#\1 лаба\задание 3\obj\Debug\задание 3.csproj.CoreCompileInputs.cache
+D:\Лиз0к\прога\C#\1 лаба\задание 3\obj\Debug\задание 3.exe
+D:\Лиз0к\прога\C#\1 лаба\задание 3\obj\Debug\задание 3.pdb
+D:\Лиз0к\прога\C#\1 лаба\задание 3\obj\Debug\задание 3.csproj.AssemblyReference.cache

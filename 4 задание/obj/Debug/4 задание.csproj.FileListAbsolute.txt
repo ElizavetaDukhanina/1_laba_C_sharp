@@ -1,0 +1,10 @@
+D:\Лиз0к\прога\C#\1 лаба\4 задание\bin\Debug\4 задание.exe.config
+D:\Лиз0к\прога\C#\1 лаба\4 задание\bin\Debug\4 задание.exe
+D:\Лиз0к\прога\C#\1 лаба\4 задание\bin\Debug\4 задание.pdb
+D:\Лиз0к\прога\C#\1 лаба\4 задание\bin\Debug\System.ValueTuple.dll
+D:\Лиз0к\прога\C#\1 лаба\4 задание\bin\Debug\System.ValueTuple.xml
+D:\Лиз0к\прога\C#\1 лаба\4 задание\obj\Debug\4 задание.csproj.AssemblyReference.cache
+D:\Лиз0к\прога\C#\1 лаба\4 задание\obj\Debug\4 задание.csproj.CoreCompileInputs.cache
+D:\Лиз0к\прога\C#\1 лаба\4 задание\obj\Debug\4 задание.csproj.CopyComplete
+D:\Лиз0к\прога\C#\1 лаба\4 задание\obj\Debug\4 задание.exe
+D:\Лиз0к\прога\C#\1 лаба\4 задание\obj\Debug\4 задание.pdb
